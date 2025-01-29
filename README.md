@@ -1,6 +1,6 @@
 # 💖 Love Calculator  
 
- : Find out how much you and your partner are meant to be.  
+Love Calculator : Find out how much you and your partner are meant to be.  
 
 ## Built tools
 
