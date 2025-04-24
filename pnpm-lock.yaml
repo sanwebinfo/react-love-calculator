@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       bulma:
-        specifier: ^1.0.3
-        version: 1.0.3
+        specifier: ^1.0.4
+        version: 1.0.4
       bulma-toast:
         specifier: ^2.4.4
         version: 2.4.4
@@ -570,8 +570,8 @@ packages:
   bulma-toast@2.4.4:
     resolution: {integrity: sha512-frK7CiTE7sW6bgJFnWE4aL3Fga9O2U6O536gj6xox+52kqb5S5WaDUq37cArzjuvnSXY5mPIvzt5xNdBeOnShA==}
 
-  bulma@1.0.3:
-    resolution: {integrity: sha512-9eVXBrXwlU337XUXBjIIq7i88A+tRbJYAjXQjT/21lwam+5tpvKF0R7dCesre9N+HV9c6pzCNEPKrtgvBBes2g==}
+  bulma@1.0.4:
+    resolution: {integrity: sha512-Ffb6YGXDiZYX3cqvSbHWqQ8+LkX6tVoTcZuVB3lm93sbAVXlO0D6QlOTMnV6g18gILpAXqkG2z9hf9z4hCjz2g==}
 
   call-bind-apply-helpers@1.0.1:
     resolution: {integrity: sha512-BhYE+WDaywFg2TBWYNXAE+8B1ATnThNBqXHP5nQu0jWJdVvY2hvkpyB3qOmtmDePiS5/BDQ8wASEWGMWRG148g==}
@@ -1899,7 +1899,7 @@ snapshots:
 
   bulma-toast@2.4.4: {}
 
-  bulma@1.0.3: {}
+  bulma@1.0.4: {}
 
   call-bind-apply-helpers@1.0.1:
     dependencies:
