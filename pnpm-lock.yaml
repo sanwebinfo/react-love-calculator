@@ -28,7 +28,7 @@ importers:
         version: 2.16.0
     devDependencies:
       '@eslint/js':
-        specifier: ^9.21.0
+        specifier: ^9.25.1
         version: 9.25.1
       '@types/react':
         specifier: ^19.0.10
@@ -40,7 +40,7 @@ importers:
         specifier: ^4.4.1
         version: 4.4.1(vite@6.3.4)
       eslint:
-        specifier: ^9.21.0
+        specifier: ^9.25.1
         version: 9.25.1
       eslint-plugin-react:
         specifier: ^7.37.5
@@ -489,9 +489,6 @@ packages:
 
   '@types/babel__traverse@7.20.6':
     resolution: {integrity: sha512-r1bzfrm0tomOI8g1SzvCaQHo6Lcv6zu0EA+W2kHrt8dyrHQxGzBBL4kdkzIS+jBMV+EYcMAEAqXqYaLJq5rOZg==}
-
-  '@types/estree@1.0.6':
-    resolution: {integrity: sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==}
 
   '@types/estree@1.0.7':
     resolution: {integrity: sha512-w28IoSUCJpidD/TGviZwwMJckNESJZXFu7NBZ5YJ4mEUnNraUn9Pm8HSZm/jDF1pDWYKspWE7oVphigUPRakIQ==}
@@ -1818,8 +1815,6 @@ snapshots:
     dependencies:
       '@babel/types': 7.26.7
 
-  '@types/estree@1.0.6': {}
-
   '@types/estree@1.0.7': {}
 
   '@types/json-schema@7.0.15': {}
@@ -2249,7 +2244,7 @@ snapshots:
       '@humanfs/node': 0.16.6
       '@humanwhocodes/module-importer': 1.0.1
       '@humanwhocodes/retry': 0.4.2
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
       '@types/json-schema': 7.0.15
       ajv: 6.12.6
       chalk: 4.1.2
